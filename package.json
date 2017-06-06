@@ -1,0 +1,19 @@
+{
+  "name": "cpc-round-transfers",
+  "version": "1.0.0",
+  "description": "Transformation of CPC round results into vote transfers.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/richseviora/cpc-round-data.git"
+  },
+  "author": "Rich Seviora",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/richseviora/cpc-round-data/issues"
+  },
+  "homepage": "https://github.com/richseviora/cpc-round-data#readme"
+}
